@@ -13,7 +13,7 @@ My name is Emily and I'm a second-year MURP pursuing the TPP concentration. In m
 
 # Project Ideas 
 1) Analyzing  pedestrians and bicycle collisions in the City of Los Angeles and better understanding the most impacted communities and populations
-   1.[Traffic Collisions](https://la.myneighborhooddata.org/2021/06/traffic-collisions/)
+...[Traffic Collisions](https://la.myneighborhooddata.org/2021/06/traffic-collisions/)
 3) Evaluating evictions in the City of Los Angeles
 4) Examining areas and populations prone to wildfires in the County of Los Angeles
 

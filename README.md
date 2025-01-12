@@ -23,6 +23,6 @@ My name is Emily and I'm a second-year MURP pursuing the TPP concentration. In m
 
 3.[Vision Zero](https://visionzero.geohub.lacity.org/)
 
-4. [Transportation Injury Mapping System](https://tims.berkeley.edu/)
+4.[Transportation Injury Mapping System](https://tims.berkeley.edu/)
    
 Other considerations: land use/zoning to evaluate the existing environment (ex. commercial, residential, etc,), High Injury Network, & demographic information to see what populations are experiencing the most collisions

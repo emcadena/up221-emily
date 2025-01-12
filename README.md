@@ -21,6 +21,6 @@ My name is Emily and I'm a second-year MURP pursuing the TPP concentration. In m
 
 2.[LA County Bikeways - from 2024 Metro ATSP](https://egis-lacounty.hub.arcgis.com/datasets/9b304f31f4dc436fae6d34668599b7b6_2/explore?location=34.220331%2C-118.314250%2C8.50) 
 
-3. [Vision Zero](https://visionzero.geohub.lacity.org/)
+3.[Vision Zero](https://visionzero.geohub.lacity.org/)
    
 Other considerations: land use/zoning to evaluate the existing environment (ex. commercial, residential, etc,), High Injury Network, & demographic information to see what populations are experiencing the most collisions

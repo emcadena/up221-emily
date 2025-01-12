@@ -1,7 +1,7 @@
 # up221-emily
 
 # Winter 2025 Introduction to GIS and Spatial Data Science 
-Using Python to create maps while diving further into policy issues 
+Using Python to create maps to examine policy issues 
 
 # Objective 
 Evaluating data to help address decisions in the planning sphere 

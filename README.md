@@ -3,7 +3,7 @@
 # Winter 2025 Introduction to GIS and Spatial Data Science 
 Using Python to create maps to examine policy issues 
 
-# Objective 
+# Objectives 
 Evaluating data to help address decisions in the planning sphere 
 
 Learning a new skill that could supplement/enhance my experience with GIS. From my understanding, Python can automate tasks in ArcGIS Pro. 
